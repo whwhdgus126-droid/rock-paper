@@ -1,4 +1,4 @@
-#ROCKPAER
+#ROCKPAPER
 ## 태스크
 - 가위, 바위, 보 게임 html 로 만들어줘.
 
